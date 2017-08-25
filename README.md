@@ -2,13 +2,13 @@
 
 Before
 
-![insider-1](/images/insider-1.png)
+![insider-1](/Images/Insider-1.png)
 
 After
 
-![insider-2](/images/insider-2.png)
+![insider-2](/Images/Insider-2.png)
 
-![insider-3](/images/insider-3.png)
+![insider-3](/Images/Insider-3.png)
 
 
 ## how to
